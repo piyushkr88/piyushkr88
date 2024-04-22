@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushkr88
 - 👀 I’m interested in android application development
-- 🌱 I’m currently learning dart programming
+- 🌱
 - 💞️ I’m looking to collaborate on 
 - 📫 reach me to my email krpiyush88@gmail.com
 
